@@ -1,5 +1,4 @@
-# Jaroslav Halyuta
-## Junior Frontend Developer
+# Jaroslav Halyuta (Junior Frontend Developer)
 ## Contact information:
 * **E-mail:** halutaa17@gmail.com
 * **GitHub** [Dinoffros365](https://github.com/Dinoffros365)
