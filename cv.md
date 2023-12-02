@@ -39,7 +39,7 @@ function handAngle(date) {
 ```
 ## Courses:
 * HTML and CSS Tutorials on the skillbox
-* JavaScript Manual on (learnjavascript.ru)[https://learn.javascript.ru/]
+* JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (myself)
 ## Languages: 
 * Russian - Native
