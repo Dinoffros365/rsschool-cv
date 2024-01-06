@@ -1,4 +1,4 @@
-###Site version
+### Site version
 https://Dinoffros365.github.io/rsschool-cv/index.html
-###gitHub version
+### gitHub version
 https://Dinoffros365.github.io/rsschool-cv/cv
