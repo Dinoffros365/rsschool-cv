@@ -1,4 +1,9 @@
-# Jaroslav Halyuta (Junior Frontend Developer)
+# __Jaroslav Halyuta (Junior Frontend Developer)__
+
+## __Contact information:__
+* **E-mail:** halutaa17@gmail.com
+* **GitHub** [Dinoffros365](https://github.com/Dinoffros365)
+  
 ## About me:
 I am 20 years old, I learn in KAI. I learn Frontend DEV 2 years. I complete some course about HTML/CSS. I hope will learn REACT Framework.
 - **My strengths:**
