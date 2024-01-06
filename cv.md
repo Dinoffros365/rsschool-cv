@@ -1,8 +1,8 @@
 # __Jaroslav Halyuta (Junior Frontend Developer)__
 
 ## __Contact information:__
-* **E-mail:** halutaa17@gmail.com
-* **GitHub** [Dinoffros365](https://github.com/Dinoffros365)
+- **E-mail:** halutaa17@gmail.com
+- **GitHub** [Dinoffros365](https://github.com/Dinoffros365)
   
 ## About me:
 I am 20 years old, I learn in KAI. I learn Frontend DEV 2 years. I complete some course about HTML/CSS. I hope will learn REACT Framework.
@@ -10,12 +10,14 @@ I am 20 years old, I learn in KAI. I learn Frontend DEV 2 years. I complete some
     - Quick learn
     - Stay focus long time
     - Stress-resistant
+      
 ## Skills
 * HTML
 * CSS
 * Core Js
 * Git/GitHub
 * Figma
+  
 ## Code examples:
 **Angle Between Clock Hands task on CODEWARS:** * Given a Date or hours and minutes, return the angle between the two hands of a 12-hour analog clock in radians. *
 ```
@@ -42,6 +44,7 @@ function handAngle(date) {
 * HTML and CSS Tutorials on the skillbox
 * JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/)
 * RS Schools Course «JavaScript/Front-end. Stage 0» (myself)
+  
 ## Languages: 
 * Russian - Native
 * English - Intermediate
